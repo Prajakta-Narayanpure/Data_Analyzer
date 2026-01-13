@@ -1,0 +1,21 @@
+Upload CSV
+↓
+Preview Data (Table)
+↓
+Dataset Info (Rows, Columns, Duplicates)
+↓
+Categorical vs Numerical Separation
+↓
+Missing Value Analysis
+↓
+Descriptive Statistics
+↓
+Univariate Analysis (Bar / Pie / Histogram)
+↓
+Bivariate Analysis (Bar, Scatter)
+↓
+Correlation Heatmap
+↓
+Outlier Detection
+↓
+Download Cleaned Data
